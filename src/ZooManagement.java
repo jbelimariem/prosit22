@@ -25,7 +25,9 @@ public class ZooManagement {
         if (!name.isEmpty() && nb > 0) {
             System.out.println("Zoo : " + name);
             System.out.println("Nombre de cages : " + nb);
+            
         }
+
 
 
     }
